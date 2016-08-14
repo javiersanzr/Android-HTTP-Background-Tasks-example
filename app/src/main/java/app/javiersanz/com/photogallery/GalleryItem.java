@@ -1,7 +1,7 @@
 package app.javiersanz.com.photogallery;
 
 /**
- * Created by Usuario on 14/08/2016.
+ * Created by TibiaZ on 14/08/2016.
  */
 public class GalleryItem {
 
